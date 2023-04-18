@@ -11,6 +11,8 @@ console.log((a))
 // else{
 //     alert("Not valid!!")
 // }
+
+
 a<18?console.log("Not valid"):console.log("valid");
 
 // switch case

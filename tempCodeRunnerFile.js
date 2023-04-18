@@ -6,4 +6,4 @@ if(a>18){
 // }
 // else{
 //     alert("Not valid!!")
-// }
+}
