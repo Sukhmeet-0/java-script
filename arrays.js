@@ -22,3 +22,20 @@ let t=[0,1,2]
 console.log(marks.concat(t).sort())
 console.log(marks.splice(t))  
 console.log(marks.slice(1,3))
+
+for(let i=0;i<t.length;i++){
+    console.log(t[i]);
+}
+ t.forEach((element)=>{
+    console.log(element*element)
+ })
+ let name="harry"
+let arr=Array.from(name)
+console.log(arr)
+
+for(let i of name){
+    console.log(i)
+}
+for(let i in name){
+    console.log(i)
+}
